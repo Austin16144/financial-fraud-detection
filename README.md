@@ -28,6 +28,4 @@ A robust machine learning pipeline for detecting fraudulent financial transactio
 
 Some datasets exceed GitHub’s 50MB size recommendation. For large-scale use, consider [Git LFS](https://git-lfs.github.com/).
 
----
-
-Let me know if you'd like help converting your notebook (`README.ipynb`) into a nicely formatted `.md` version or embedding screenshots from it!
+Hope you like the project!
