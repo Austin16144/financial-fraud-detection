@@ -14,7 +14,10 @@ A robust machine learning pipeline for detecting fraudulent financial transactio
 
 - Logistic Regression
 - Random Forest
-- Isolation Forest (Unsupervised)
+- Isolation Forest
+- Autoencoder
+- One class svm
+- Decision tree
 - Graph-Based Community Detection
 - Adaptive Learning on real-time simulation
 - Power BI Dashboard
@@ -22,7 +25,6 @@ A robust machine learning pipeline for detecting fraudulent financial transactio
 ## Related Resources
 
 - [📓 Interactive README.ipynb](./README.ipynb)
-- [Power BI Dashboard Overview (screenshots or link)](link-if-online)
 
 ## Note
 
